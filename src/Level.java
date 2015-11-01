@@ -153,7 +153,7 @@ public class Level {
 			System.out.println("");
 		}
 		
-	}
+	} 
 
 	private void cleanup(){
 		for(int i=0;i<this.characters.size();i++){
